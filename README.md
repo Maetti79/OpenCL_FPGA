@@ -6,18 +6,19 @@ Language C# VS 2017<br>
 -OpenCL 1.2,2.0 Miner mainly for FPGA's (520S Stratix10/385A Arria10)<br>
 -Multi Custom OpenCl Kernel's for different CryptoCurrencys<br>
 -Statum Protokoll<br>
--Customer ATi GPU OpenCL<br>
--Accelerator ATi GPU OpenC<br>
--Customer nVidia OpenCL (No Cuda!)<br>
--Accelerator nVidia GPU OpenC (No Cuda!)<br>
--Nallatech Accelerator FPGA PCIe Cards like 385A,395A,510T,520S,520N<br>
+-Customer ATi GPU (Pitcairn,Tonga,Hawaii,Fiji,Vega) OpenCL > 1.2<br>
+-Accelerator ATi GPU (Vega) OpenCL > 1.2<br>
+-Customer nVidia GPU (GP104) OpenCL > 1.2 (No Cuda!)<br>
+-Accelerator nVidia GPU (Tesla) OpenCL > 1.2 (No Cuda!)<br>
+-Nallatech Accelerator FPGA PCIe Cards like 385A,395A,510T,520S,520N OpenCL > 1.2<br>
 <br>
-First Test Run ETH <br>
-AMD FX 8350 16GB  ~    0.5 MH/s @211W 2800MHz - OpenCL 1.2<br>
-ATi R9 Fury 8GB   ~   31.9 MH/s @241W 1110MHz - OpenCL 1.2<br>
-Nallatech 520S    ~ 421.41 MH/s @107W 1200MHz - OpenCL 1.2<br>
+First Test Run's ETH... <br>
+CPU  AMD FX 8350 16GB  ~    0.5 MH/s @211W 2800MHz - OpenCL 1.2<br>
+GPU  ATi R9 290x 4GB   ~   28.7 MH/s @218W 1100MHz - OpenCL 1.2<br>
+GPU  ATi R9 Fury 8GB   ~   31.9 MH/s @241W 1110MHz - OpenCL 1.2<br>
+FPGA Nallatech 520S    ~ 421.41 MH/s @107W 1200MHz - OpenCL 1.2<br>
 <br>
-! hardware and compatibility test will be heavily continued !<br>
+! UPDATE 06.01.2018 ! hardware and compatibility test's will be heavily continued tonight !<br>
 ! heavy development is going on here !<br>
 <br>
 ! source code and more info to come soon !<br>
