@@ -2,6 +2,13 @@
 
 OpenCL_FPGA - Utilise an real Industrie FPGA with OpenCL for Mining<br>
 <br>
+
+Project closed due to problem with C# and 64Bit unsigned integer Problems!
+Moved to https://github.com/Maetti79/ethminer (Fork) to integrate an FPGA OpenCL Miner there
+
+
+
+...
 Language C# VS 2017<br>
 -OpenCL 1.2,2.0 Miner mainly for FPGA's (520S Stratix10/385A Arria10)<br>
 -Multi Custom OpenCl Kernel's for different CryptoCurrencys<br>
